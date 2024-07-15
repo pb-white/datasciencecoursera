@@ -1,7 +1,1 @@
----
-title: "HelloWorld"
-author: "Pauline White"
-date: "2024-07-15"
-output: word_document
----
 ## This is a markdown file
